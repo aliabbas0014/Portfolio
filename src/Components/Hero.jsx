@@ -18,7 +18,7 @@ const Hero = () => {
             Crafting immersive, high-performance web experiences with modern front-end architectures and a keen eye for UI/UX detail.
           </p>
           <div className="flex gap-4 mt-8 justify-center md:justify-start">
-            <a href="https://drive.google.com/file/d/1FWFEZJVvSF4HUOKIXgdUxECZFH1GCthn/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1f7RyMht0bBAT4Hv_MJ15L-qjxdM3Voko/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
               <button className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-full transition-all transform hover:-translate-y-1 shadow-lg shadow-blue-900/20">
                 View Resume
               </button>
